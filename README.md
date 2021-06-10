@@ -1,4 +1,5 @@
-👋 Hi, I’m Amirah Raniah Shandary. Industrial Engineering fresh graduate. 
+# Hi! 👋
+I’m Amirah Raniah Shandary. Industrial Engineering fresh graduate. 
 
 👀 I’m currently learning about Python and SQL in some online platform learning. 
 Through this I want to make this module for practice and as a review for my deep learning.
